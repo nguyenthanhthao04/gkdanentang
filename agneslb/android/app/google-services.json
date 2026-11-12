@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106152044926",
+    "project_id": "crud-agneslb",
+    "storage_bucket": "crud-agneslb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106152044926:android:e623cf7d5a5d1e88ab6b2f",
+        "android_client_info": {
+          "package_name": "com.example.agneslb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlCVWJYhBC92DGi4VaqYqD7jeVjk_oGwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
